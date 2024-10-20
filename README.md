@@ -10,7 +10,7 @@ that's why the best you can get is access to humans who have(/have had) what you
 
 the second best thing for fast answers? search engines and other people looking for the same answer.
 
-### sources of knowledge
+## sources of knowledge
 
 1. Public:
    - web crawlable data (api + domain non-gated content like youtube/stackoverflow)
@@ -23,7 +23,7 @@ the second best thing for fast answers? search engines and other people looking 
    - personal network / team
    - targeted outreach
 
-### web crawlable data
+## web crawlable data
 
 you gotta master the art of googling as it can reduce external dependency.
 
