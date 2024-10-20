@@ -1,4 +1,4 @@
-# Algorithm_Find_Any_Answer
+# i need AGI
 
 the greatest achievers in history often found a path of actions that resulted in successfully solving a problem some couldn't even ascribe variables to.
 
